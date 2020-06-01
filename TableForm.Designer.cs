@@ -42,7 +42,7 @@
             this.dataGridView1.DataSource = this.tKPropuskyDataSetBindingSource;
             this.dataGridView1.Location = new System.Drawing.Point(13, 13);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(725, 333);
+            this.dataGridView1.Size = new System.Drawing.Size(775, 425);
             this.dataGridView1.TabIndex = 0;
             // 
             // TableForm
