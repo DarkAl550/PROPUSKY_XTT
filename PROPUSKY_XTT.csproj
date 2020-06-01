@@ -127,6 +127,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>TKPropusky.mdf</DependentUpon>
     </Content>
+    <Content Include="Sandbox.txt" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6">
